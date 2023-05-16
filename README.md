@@ -1,1 +1,0 @@
-# fake_news_detection_with_GeFS_and_XAI
